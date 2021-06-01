@@ -1,2 +1,1 @@
-# Tabuada
-Tabuado, projeto JS-Curso em Video
+Projeto JS-Curso em Video
